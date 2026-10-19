@@ -1,0 +1,47 @@
+Timestamp,Name,Age Group,Household Size,Locality Type,Occupation Type,Electricity units consumed this week (kWh),Primary cooking fuel used,Cooking fuel used this week,Primary mode of travel this week,Distance traveled via primary mode this week (km),Secondary mode of travel (if any),Distance traveled via secondary mode this week (km),Days worked/studied from home this week,Any major one-time energy use this week?,Overall energy-conscious effort this week,Electricity CO2,Cooking CO2,Primary Travel CO2,Secondary Travel CO2,Total CO2,Household Midpoint,Per-Capita CO2
+9/22/2026 16:23:20,Vihan,18-24,5+,Urban,Student,30-50,Piped Natural Gas,None,Car (Petrol),50-100,Bike/Scooter,50-100,2,,3,32.8,0,10.5,3.75,47.05,6,7.841666667
+9/22/2026 22:22:27,Abhang Pawar,18-24,2,Urban,Student,50-75,LPG Cylinder,None,Bike/Scooter,Under 10,Walk/Cycle,Under 10,2,AC used heavily,3,51.25,0,0.25,0,51.5,2,25.75
+9/22/2026 22:22:52,Renuka vaidya ,35-50,3,Urban,Homemaker,15-30,Piped Natural Gas,1/4 to 1/2 cylinder,Car (Petrol),Above 200,None,None,5,AC used heavily,3,18.45,14.204,30.8,0,63.454,3,21.15133333
+9/22/2026 22:23:04,Om,18-24,4,Urban,Student,15-30,Piped Natural Gas,None,Bike/Scooter,Above 200,Walk/Cycle,25-50,0,Other appliance-heavy activity,3,18.45,0,11,0,29.45,4,7.3625
+9/22/2026 22:50:38,JYOTI SURVE ,Above 50,4,Urban,Working Professional,30-50,Piped Natural Gas,Less than 1/4 cylinder,Train/Metro,100-200,Bike/Scooter,50-100,5,None,4,32.8,4.69,4.5,3.75,45.74,4,11.435
+9/22/2026 23:03:58,Abhijit Wavhal,Above 50,3,Suburban,Working Professional,75-100,Induction,None,Car (Petrol),100-200,Rideshare,25-50,4,AC used heavily,4,71.75,0,21,5.25,98,3,32.66666667
+9/22/2026 23:06:22,Riya Joglekar,18-24,1,Urban,Student,15-30,Piped Natural Gas,Less than 1/4 cylinder,Rideshare,10-25,Walk/Cycle,10-25,2,None,3,18.45,4.69,2.45,0,25.59,1,25.59
+9/22/2026 23:58:45,Parikshit Vaidya ,35-50,3,Urban,Working Professional,75-100,Piped Natural Gas,Less than 1/4 cylinder,Car (Petrol),Above 200,None,None,6,AC used heavily,1,71.75,4.69,30.8,0,107.24,3,35.74666667
+9/23/2026 0:39:15,Atul Deshpande ,Above 50,1,Suburban,Other,75-100,LPG Cylinder,Less than 1/4 cylinder,Walk/Cycle,Under 10,Car (Petrol),Above 100,6,AC used heavily,5,71.75,5.215,0,15.4,92.365,1,92.365
+9/23/2026 1:20:16,Suman Ahuja ,Above 50,4,Urban,Homemaker,75-100,Piped Natural Gas,None,Car (Diesel),25-50,Train/Metro,Under 10,4,None,3,71.75,0,6.375,0.15,78.275,4,19.56875
+9/23/2026 8:03:01,Vrushali ,Above 50,4,Suburban,Working Professional,15-30,Piped Natural Gas,Less than 1/4 cylinder,Train/Metro,50-100,Walk/Cycle,10-25,3,None,3,18.45,4.69,2.25,0,25.39,4,6.3475
+9/23/2026 8:48:01,Arthi Patil ,35-50,1,Urban,Homemaker,Above 100,LPG Cylinder,Less than 1/4 cylinder,Bike/Scooter,25-50,Walk/Cycle,Under 10,7,None,5,90.2,5.215,1.875,0,97.29,1,97.29
+9/23/2026 8:49:36,Brijesh Patel,35-50,3,Urban,Working Professional,Above 100,Electric,Less than 1/4 cylinder,Train/Metro,50-100,Car (Petrol),25-50,3,Other appliance-heavy activity,3,90.2,0,2.25,5.25,97.7,3,32.56666667
+9/23/2026 9:39:24,Naina Chouhan,35-50,2,Urban,Homemaker,75-100,Piped Natural Gas,1/2 to 3/4 cylinder,Car (Petrol),Under 10,Train/Metro,25-50,7,None,5,71.75,23.852,0.7,1.125,97.427,2,48.7135
+9/23/2026 9:53:09,Girish kamath ,35-50,3,Urban,Self-employed,50-75,Piped Natural Gas,None,Car (Diesel),Above 200,None,None,0,None,3,51.25,0,37.4,0,88.65,3,29.55
+9/23/2026 10:00:46,,35-50,5+,Urban,Working Professional,50-75,Piped Natural Gas,Less than 1/4 cylinder,Bike/Scooter,10-25,Car (Petrol),Under 10,4,None,2,51.25,4.69,0.875,0.7,57.515,6,9.585833333
+9/23/2026 10:02:56,Prem D'Souza,35-50,2,Suburban,Self-employed,Above 100,LPG Cylinder,Less than 1/4 cylinder,Walk/Cycle,Under 10,Bus,25-50,6,Other appliance-heavy activity,2,90.2,5.215,0,1.875,97.29,2,48.645
+9/23/2026 10:15:09,Madhu,35-50,3,Urban,Working Professional,50-75,Piped Natural Gas,Less than 1/4 cylinder,Bike/Scooter,10-25,Walk/Cycle,25-50,3,Long-distance travel (flight/train),2,51.25,4.69,0.875,0,56.815,3,18.93833333
+9/23/2026 14:24:07,Yash,18-24,4,Suburban,Student,15-30,Piped Natural Gas,None,Train/Metro,100-200,Walk/Cycle,50-100,3,None,3,18.45,0,4.5,0,22.95,4,5.7375
+9/23/2026 16:52:47, Vrushali ,Above 50,4,Suburban,Working Professional,15-30,Piped Natural Gas,Less than 1/4 cylinder,Train/Metro,50-100,Car(EV),25-50,3,None,4,18.45,4.69,2.25,#N/A,#N/A,4,#N/A
+9/23/2026 17:55:55,Batul Diwan,35-50,4,Urban,Working Professional,50-75,Piped Natural Gas,Less than 1/4 cylinder,Bus,Under 10,Walk/Cycle,Under 10,0,None,3,51.25,4.69,0.25,0,56.19,4,14.0475
+9/23/2026 18:35:41,Sarika Nathwani ,35-50,4,Urban,Working Professional,75-100,Piped Natural Gas,Less than 1/4 cylinder,Bike/Scooter,Under 10,Option 10,10-25,7,AC used heavily,3,71.75,4.69,0.25,#N/A,#N/A,4,#N/A
+9/23/2026 22:29:45,Neetu agarwal ,Above 50,3,Suburban,Self-employed,Above 100,Piped Natural Gas,Less than 1/4 cylinder,Train/Metro,50-100,Rideshare,10-25,2,None,2,90.2,4.69,2.25,2.45,99.59,3,33.19666667
+9/23/2026 22:34:22,Aradhana ,Above 50,3,Suburban,Homemaker,Above 100,Piped Natural Gas,1/4 to 1/2 cylinder,Bike/Scooter,Under 10,Car (Petrol),Under 10,0,None,4,90.2,14.204,0.25,0.7,105.354,3,35.118
+9/23/2026 22:42:53,Shaila colaco,35-50,3,Urban,Self-employed,Above 100,LPG Cylinder,Less than 1/4 cylinder,Bike/Scooter,Under 10,Car (Petrol),None,7,AC used heavily,5,90.2,5.215,0.25,0,95.665,3,31.88833333
+9/23/2026 22:45:03,Monica ,35-50,1,Suburban,Working Professional,50-75,LPG Cylinder,Less than 1/4 cylinder,Bike/Scooter,10-25,Rideshare,None,0,None,3,51.25,5.215,0.875,0,57.34,1,57.34
+9/23/2026 22:45:15,Stalin,35-50,2,Urban,Working Professional,15-30,Electric,None,Walk/Cycle,10-25,Car (Petrol),10-25,5,AC used heavily,4,18.45,0,0,2.45,20.9,2,10.45
+9/24/2026 0:08:47,Ninad Rajurkar,35-50,2,Urban,Working Professional,30-50,Piped Natural Gas,None,Car (Diesel),100-200,Car (Diesel),10-25,1,Long-distance travel (flight/train),3,32.8,0,25.5,2.975,61.275,2,30.6375
+9/24/2026 1:10:58,Renuka Nair ,35-50,4,Suburban,Working Professional,75-100,Piped Natural Gas,1/4 to 1/2 cylinder,Car (Petrol),10-25,Car(EV),Above 100,4,Long-distance travel (flight/train),1,71.75,14.204,2.45,#N/A,#N/A,4,#N/A
+9/24/2026 5:38:34,Maya Nair,35-50,5+,Urban,Working Professional,Under 15,Piped Natural Gas,Less than 1/4 cylinder,Car (Petrol),Under 10,Walk/Cycle,Under 10,3,None,1,8.2,4.69,0.7,0,13.59,6,2.265
+9/24/2026 5:49:26,Geetha Choodamani ,35-50,4,Urban,Self-employed,30-50,LPG Cylinder,1/4 to 1/2 cylinder,Car (Petrol),10-25,Walk/Cycle,Under 10,0,Other appliance-heavy activity,3,32.8,15.794,2.45,0,51.044,4,12.761
+9/24/2026 6:38:24,Sunitha Iyer,35-50,5+,Urban,Working Professional,Above 100,Piped Natural Gas,None,Bus,50-100,Car (Petrol),10-25,1,None,3,90.2,0,3.75,2.45,96.4,6,16.06666667
+9/24/2026 6:51:08,Asha Sanjeev,35-50,3,Urban,Homemaker,30-50,LPG Cylinder,1/4 to 1/2 cylinder,Car (Petrol),Under 10,Car (Petrol),10-25,7,Other appliance-heavy activity,3,32.8,15.794,0.7,2.45,51.744,3,17.248
+9/24/2026 7:56:00,Maithili Tilak,35-50,3,Urban,Working Professional,50-75,Piped Natural Gas,Less than 1/4 cylinder,Car (Petrol),Above 200,Train/Metro,Above 100,2,None,3,51.25,4.69,30.8,3.3,90.04,3,30.01333333
+9/24/2026 8:11:10,Sangeeta ,35-50,4,Suburban,Self-employed,75-100,Piped Natural Gas,Less than 1/4 cylinder,Car (Diesel),100-200,Bike/Scooter,Under 10,1,AC used heavily,3,71.75,4.69,25.5,0.25,102.19,4,25.5475
+9/24/2026 8:34:52,Sharanjeet ,35-50,3,Suburban,Self-employed,75-100,Piped Natural Gas,None,Car (Diesel),10-25,Rideshare,10-25,1,Other appliance-heavy activity,3,71.75,0,2.975,2.45,77.175,3,25.725
+9/24/2026 8:49:01,Rashmi Narang ,35-50,3,Suburban,Homemaker,75-100,Piped Natural Gas,Nearly full cylinder,Bike/Scooter,10-25,Walk/Cycle,Under 10,0,None,4,71.75,33.232,0.875,0,105.857,3,35.28566667
+9/24/2026 9:32:16,Aganyaa,Under 18,3,Urban,Student,15-30,Piped Natural Gas,Less than 1/4 cylinder,Car (Petrol),10-25,None,None,2,AC used heavily,2,18.45,4.69,2.45,0,25.59,3,8.53
+9/24/2026 9:54:04,Ancy Daniel ,35-50,5+,Urban,Homemaker,Above 100,Piped Natural Gas,1/4 to 1/2 cylinder,Car (Diesel),Above 200,Walk/Cycle,10-25,2,AC used heavily,5,90.2,14.204,37.4,0,141.804,6,23.634
+9/24/2026 12:44:42,Seema Manchanda ,Above 50,3,Suburban,Working Professional,30-50,Piped Natural Gas,Less than 1/4 cylinder,Train/Metro,Above 200,Bus,25-50,0,Long-distance travel (flight/train),3,32.8,4.69,6.6,1.875,45.965,3,15.32166667
+9/24/2026 14:03:05,Vasanth Vishwanathan,35-50,4,Urban,Working Professional,30-50,Piped Natural Gas,Less than 1/4 cylinder,Walk/Cycle,Under 10,Car (Petrol),10-25,5,None,3,32.8,4.69,0,2.45,39.94,4,9.985
+9/24/2026 19:01:29,Jeena,Above 50,3,Urban,Self-employed,Above 100,Piped Natural Gas,None,Car (Petrol),50-100,Walk/Cycle,Under 10,4,Long-distance travel (flight/train),1,90.2,0,10.5,0,100.7,3,33.56666667
+9/24/2026 19:01:43,,35-50,4,Suburban,Working Professional,75-100,Piped Natural Gas,None,Car(EV),25-50,Walk/Cycle,None,2,None,4,71.75,0,#N/A,0,#N/A,4,#N/A
+9/24/2026 22:50:12,Preeti Mandrekar ,Above 50,4,Urban,Working Professional,50-75,Piped Natural Gas,Less than 1/4 cylinder,Train/Metro,100-200,Walk/Cycle,10-25,0,AC used heavily,4,51.25,4.69,4.5,0,60.44,4,15.11
+9/26/2026 14:52:26,Vedant P,18-24,4,Urban,Student,30-50,LPG Cylinder,1/4 to 1/2 cylinder,Train/Metro,100-200,None,None,0,None,4,32.8,15.794,4.5,0,53.094,4,13.2735
+9/29/2026 15:06:43,Shaurya Ghorpade,18-24,3,Urban,Student,15-30,Piped Natural Gas,1/4 to 1/2 cylinder,Train/Metro,Above 200,Car (Petrol),50-100,2,AC used heavily,2,18.45,14.204,6.6,10.5,49.754,3,16.58466667
